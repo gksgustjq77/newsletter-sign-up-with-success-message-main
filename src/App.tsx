@@ -11,4 +11,4 @@ function App() {
 }
 
 export default App;
-// flex sm:flex-col items-stretch justify-center sm:rounded-none bg-white md:rounded-[20px] overflow-hidden shadow-md
+// flex sm:flex-col items-stretch justify-center sm:rounded-none bg-white lg:rounded-[20px] overflow-hidden shadow-md
