@@ -1,4 +1,3 @@
-import { useNavigate } from "react-router-dom";
 import UpdateForm from "../components/UpdateForm";
 
 const StayUpdate: React.FC = () => {

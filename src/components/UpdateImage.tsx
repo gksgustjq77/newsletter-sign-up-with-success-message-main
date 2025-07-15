@@ -1,7 +1,3 @@
-interface UpdateImageProps {
-  imgUrl: string;
-}
-
 const UpdateImage: React.FC = () => {
   return (
     <picture className="flex w-full">
