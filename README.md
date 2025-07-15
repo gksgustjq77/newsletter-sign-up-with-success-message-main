@@ -4,7 +4,7 @@
 
 ## Live site
 
-- **Vercal**: https://product-list-with-cart-main-beige-eight.vercel.app
+- **Vercal**: https://newsletter-sign-up-with-success-mes-one.vercel.app/
 
 ## PC 💻
 
